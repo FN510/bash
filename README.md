@@ -13,5 +13,6 @@ Displays the number of files and folders as well as a list of the largest 5 file
 _________________
 
 dir-stats-3.sh
+
 Changes file permissions of scripts in /dcs/15/u1519685/public_html/ to 644
 
